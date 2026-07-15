@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sarveshvar</h1>
 
 <h3 align="center">
-B.Tech Information Technology Student | Aspiring Software Engineer
+B.Tech Information Technology Student | Aspiring Software Developer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=Software+Developer;Problem+Solver;Java+%7C+Python+%7C+C+Programmer;Learning+Data+Structures+%26+Algorithms;Passionate+About+Research+%26+Development"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&pause=1500&color=00BFFF&center=true&vCenter=true&width=700&lines=Aspiring+Software+Developer;Passionate+about+Research+%26+Development"/>
 </p>
 
 ---
@@ -14,10 +14,9 @@ B.Tech Information Technology Student | Aspiring Software Engineer
 
 - 🎓 B.Tech Information Technology Student
 - 💻 Passionate about Software Development
-- 🔬 Love working in Research & Development
+- 🔬 Passionate about Research & Development
 - 🌱 Currently learning Data Structures & Algorithms
 - 📚 Solving Striver Sheet and LeetCode
-- 🎯 Aspiring Software Engineer
 - 🚀 Always eager to learn new technologies and build impactful projects
 
 ---
@@ -27,30 +26,31 @@ B.Tech Information Technology Student | Aspiring Software Engineer
 ### Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python"/>
-  <img src="https://skillicons.dev/icons?i=java"/>
-  <img src="https://skillicons.dev/icons?i=c"/>
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=java" />
+  <img src="https://skillicons.dev/icons?i=c" />
 </p>
 
 ### Web Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html"/>
-  <img src="https://skillicons.dev/icons?i=css"/>
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
 </p>
 
 ### Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql"/>
+  <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 ---
 
 # 📫 Connect With Me
 
-- 💼 **LinkedIn:** https://www.linkedin.com/in/sarveshvar-sendhilkumar-sk
-- 📧 **Email:** sarveshvarsendhilkumar30@gmail.com
+- 💼 **LinkedIn:** <a href="https://www.linkedin.com/in/sarveshvar-sendhilkumar-sk">Sarveshvar Sendhilkumar</a>
+
+- 📧 **Email:** <a href="mailto:sarveshvarsendhilkumar30@gmail.com">sarveshvarsendhilkumar30@gmail.com</a>
 
 ---
 
