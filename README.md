@@ -5,7 +5,7 @@ B.Tech Information Technology Student | Aspiring Software Engineer
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Software+Developer;Problem+Solver;Java+%7C+Python+%7C+C+Programmer;Learning+Data+Structures+%26+Algorithms;Passionate+About+Research+%26+Development"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=Software+Developer;Problem+Solver;Java+%7C+Python+%7C+C+Programmer;Learning+Data+Structures+%26+Algorithms;Passionate+About+Research+%26+Development"/>
 </p>
 
 ---
@@ -27,30 +27,22 @@ B.Tech Information Technology Student | Aspiring Software Engineer
 ### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python"/>
-<img src="https://skillicons.dev/icons?i=java"/>
-<img src="https://skillicons.dev/icons?i=c"/>
+  <img src="https://skillicons.dev/icons?i=python"/>
+  <img src="https://skillicons.dev/icons?i=java"/>
+  <img src="https://skillicons.dev/icons?i=c"/>
 </p>
 
 ### Web Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=html"/>
-<img src="https://skillicons.dev/icons?i=css"/>
+  <img src="https://skillicons.dev/icons?i=html"/>
+  <img src="https://skillicons.dev/icons?i=css"/>
 </p>
 
 ### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql"/>
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+  <img src="https://skillicons.dev/icons?i=mysql"/>
 </p>
 
 ---
@@ -63,5 +55,5 @@ B.Tech Information Technology Student | Aspiring Software Engineer
 ---
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:7B68EE&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:7B68EE&height=120&section=footer"/>
 </p>
